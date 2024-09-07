@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScarletDeveloper/InfernoMM2/main/InfernoMM2.txt"))()
